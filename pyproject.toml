@@ -1,0 +1,13 @@
+[project]
+name = "bizflycloud-vpn"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+    "opencv-contrib-python>=4.10.0.84",
+    "opencv-python>=4.10.0.84",
+    "pyinstaller>=6.11.1",
+    "pyotp>=2.9.0",
+    "pyperclip>=1.9.0",
+]
