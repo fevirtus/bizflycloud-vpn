@@ -1,6 +1,5 @@
 import cv2
 import pyotp
-import pyperclip
 import sys
 import argparse
 import subprocess
